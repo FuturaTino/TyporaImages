@@ -1,0 +1,17 @@
+{
+      "picBed": {
+        "current": "github",
+        "github": {
+          "repo": "FuturaTino/TyporaImages", 
+          "branch": "main",
+          "token": "token", 
+          "path": "images/", 
+          "customUrl": "https://github.com/FuturaTino/TyporaImages/raw/main/" 
+        },
+        "uploader": "github",
+        "transformer": "path"
+      },
+      "picgoPlugins": {
+        "picgo-plugin-github-plus": true
+      }
+    }
